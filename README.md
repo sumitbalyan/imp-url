@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=RYiZZprUNJw
 
 # git command line- add project to github
 https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+
+# If "Fatal refusing to merge unrelated histories"
+git checkout master
+git merge origin/master --allow-unrelated-histories
