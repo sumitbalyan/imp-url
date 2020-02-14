@@ -18,4 +18,5 @@ git merge origin/master --allow-unrelated-histories
 ## React native release build
 
 $ ./gradlew bundleRelease
+
 $ react-native run-android --variant=release
