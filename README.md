@@ -14,3 +14,8 @@ https://help.github.com/en/articles/adding-an-existing-project-to-github-using-t
 # If "Fatal refusing to merge unrelated histories"
 git checkout master
 git merge origin/master --allow-unrelated-histories
+
+## React native release build
+
+$ ./gradlew bundleRelease
+$ react-native run-android --variant=release
