@@ -20,3 +20,7 @@ git merge origin/master --allow-unrelated-histories
 $ ./gradlew bundleRelease
 
 $ react-native run-android --variant=release
+
+## React / React native remove errors 
+
+$ yarn run lint --fix
