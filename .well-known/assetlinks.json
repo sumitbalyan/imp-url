@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.app.launchclient",
+    "sha256_cert_fingerprints":
+    ["8F:23:DC:2D:54:70:9F:E9:24:DF:AF:F0:D8:19:79:33:1A:8F:B9:2F:10:05:BD:5A:6B:83:6F:41:B7:7A:4C:4B"]
+  }
+}]
