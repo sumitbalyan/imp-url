@@ -24,3 +24,26 @@ $ react-native run-android --variant=release
 ## React / React native remove errors 
 
 $ yarn run lint --fix
+
+# react-native component lib
+
+https://blog.usejournal.com/react-native-component-library-edec93b82a6d
+
+
+# Yup password
+
+https://stackoverflow.com/questions/49502436/password-validation-with-yup-and-formik
+
+https://www.smashingmagazine.com/2020/10/react-validation-formik-yup/
+
+# Tabs 
+
+https://github.com/Trancever/twitterClone/blob/master/src/rootNavigator.tsx
+
+https://github.com/itzpradip/Food-Finder-React-Native-App/blob/master/screens/MainTabScreen.js
+
+https://github.com/cheetahcoding/React-Native-Tutorials/tree/react_navigation_v5
+
+# Sticky header
+
+https://stackoverflow.com/questions/38581562/sticky-component-inside-scrollview
